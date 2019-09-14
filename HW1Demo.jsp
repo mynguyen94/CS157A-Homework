@@ -16,7 +16,7 @@
      String db = "cs157a";
         String user; // assumes database name is the same as username
           user = "root";
-        String password = "Snme121173";
+        String password = "root1234";
         try {
             
             java.sql.Connection con; 
